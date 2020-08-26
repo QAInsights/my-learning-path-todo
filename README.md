@@ -1,4 +1,4 @@
-# Personal Learning Path and ToDo
+# Personal Learning Path
 
 - [ ] Linux
 - [ ] Bash
@@ -14,7 +14,7 @@
 - [ ] perf
 - [ ] eBPF
 
-To Do
+# To Do
 
 - [ ] LoadRunner Exercises
 - [ ] JMeter Exercises
